@@ -1,0 +1,122 @@
+body {
+    background: blue;
+}
+
+.hello {
+    color: white;
+    background: red;
+    width: 100px;
+}
+
+.first_p {
+    background: slateblue;
+    padding-bottom: 30px;
+    width: 300px;
+}
+
+.second_p {
+    background: yellow;
+    padding-bottom: 20px;
+    width: 300px;
+}
+
+.togather_three {
+    padding-bottom: 20px;
+}
+
+.one {
+    background: red;
+    width: 75px;
+    height: 40px;
+}
+
+.two {
+    background: orange;
+    width: 120px;
+    height: 40px;
+}
+
+.three {
+    background: midnightblue;
+    width: 160px;
+    height: 40px;
+}
+
+.word {
+    background-color: orange;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.big_l {
+    text-transform: uppercase;
+}
+
+.small_l {
+    vertical-align: sub;
+}
+
+.frame {
+    background-color: #d6d7be;
+    width: 480px;
+    height: 220px;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.first_level {
+    color: #532601;
+}
+
+.second_level {
+    color: #000000;
+}
+
+.thrird_level {
+    color: #86524b;
+}
+
+.link {
+    color: #285501;
+}
+
+.equation_1,
+.equation_2 {
+    margin: 30px;
+    border: dashed;
+    width: 400px;
+}
+
+.degree_one,
+.degree_two,
+.degree_three,
+.degree_four {
+    vertical-align: super;
+    font-size: small;
+}
+
+.coefficient_one,
+.coefficient_two,
+.coefficient_three,
+.coefficient_four,
+.coefficient_five,
+.coefficient_six,
+.coefficient_seven {
+    vertical-align: sub;
+    font-size: small;
+}
+
+.equation_2 .coefficient_four,
+.coefficient_five,
+.coefficient_six,
+.coefficient_seven {
+    color: green;
+}
+
+.degree_three,
+.degree_four {
+    color: red;
+}
